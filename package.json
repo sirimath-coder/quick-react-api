@@ -1,8 +1,6 @@
 {
-  "name": "quick-react-public-api",
+  "name": "quick-react-api",
   "version": "1.0.0",
   "private": true,
-  "engines": {
-    "node": ">=18"
-  }
+  "description": "Public Quick React API"
 }
